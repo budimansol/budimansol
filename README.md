@@ -1,8 +1,1 @@
-# Halo semua! 
-
-Perkenalkan nama saya **Dzakky Budiman**.\
-Saya seorang **Mahasiswa Tingkat Tengah** di [UNNES](https://unnes.ac.id/).\
-Saya menempuh Program Pendidikan Teknik Informatika
-Saya sedang menggali lebih dalam tentang dunia IT
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dzakky-budiman-507039221/)ku ya.
-
+Freshgraduate Computer Science Student at Universitas Negeri Semarang with interests in data analyst and web development. Experienced in web development and machine learning projects, I have skills in designing software architecture and data processing. I am ambitious, honest, disciplined, and have good public speaking skills. I hope to develop a career in web development and data scientist.
